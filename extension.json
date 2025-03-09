@@ -1,6 +1,6 @@
 {
   "name": "Blanche",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": ["OJ Kwon <oj@inbox.kwon.page>"],
   "description": "Non official port of VS Code Blanche theme",
   "repository": "https://github.com/kwonoj/zed-blanche"
